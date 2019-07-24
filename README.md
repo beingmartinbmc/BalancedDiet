@@ -1,6 +1,6 @@
 This is a BalancedDiet application for desktop. 
 
-Just add a word file in the form (<FOOD-NAME> <Protein> <Carboydrate> <Fats> <Fibers>)
+Just add a word file in the form (FOODNAME PROTEINS CARBS FATS FIBERS)
 
 Our application would suggest you 3 diets for the day looking at your BMI.
 
@@ -17,13 +17,13 @@ fatRichMeal -> high in fats
 randomMeal -> a random meal from the menu
 
 
-#Requirements:
+Requirements:
 
 Java 1.8 or later.
 
 A word file (Food.txt) present in resources package.
 
-#Steps:
+Steps:
 
 1: Download the Project into D Drive.
 
